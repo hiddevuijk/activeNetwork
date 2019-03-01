@@ -1,0 +1,18 @@
+#system parameters
+N = 100
+d = 5.
+k = 3.6
+v0 = 1.
+tau = 6.
+gamma = 1.
+m = .1
+seed = 233436111
+
+#integration parameter
+Nt_init = 10
+Nt = 10000
+sample_freq = 1
+print_freq = 10
+t_unit = 10000
+dt = 0.0005
+bs = .5
